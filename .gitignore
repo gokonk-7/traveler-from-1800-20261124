@@ -1,0 +1,7 @@
+# make.fun kit + competition data: never committed (kit files break
+# thinking_reproduces, and the kit tarball is not part of the entry).
+kit/
+competition.json
+requirements.json
+__pycache__/
+*.pyc
